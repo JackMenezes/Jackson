@@ -2,8 +2,8 @@
 ### Bem vindo ao meu perfil GitHub 👋
 
 - 🔭 Atualmente estou trabalhando numa Software House 
-- 🌱 Atualmente estou aprendendo aprendendo a programar
-- 📚 Estou cursando ADS pela UniceSumar
+- 🌱 Atualmente estou aprendendo a programar
+- 📚 Estou cursando Engenharia de Software pela Cruzeiro do Sul
 - 🤔 Estou procurando aprender mais.
 - 😄 Pronomes: Jackson
 
