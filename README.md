@@ -4,7 +4,6 @@
 - 👨‍💼 trabalhando numa Software House 
 - 👨‍💻 Delpheiro | FireBird | MySQL | PHP | C | C++ |
 - 📚 Engenharia de Software pela Cruzeiro do Sul
-- 😄 Pronomes: Jackson
 
 <div>
 <a href="https://github.com/JackMenezes">
